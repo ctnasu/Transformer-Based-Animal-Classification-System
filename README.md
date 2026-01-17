@@ -54,7 +54,7 @@ Kullanıcı, uygulama arayüzü üzerinden test görselleri yükleyip tahmin son
 
 
 # Repository'yi klonla
-git clone https://github.com/kullaniciadi/Transformer-Tabanli-Hayvan-Siniflandirma-Sistemi.git
+git clone https://github.com/ctnasu/Transformer-Based-Animal-Classification-System.git
 cd Transformer-Tabanli-Hayvan-Siniflandirma-Sistemi
 
 # Gerekli kütüphaneleri yükle
